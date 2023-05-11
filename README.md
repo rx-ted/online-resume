@@ -63,8 +63,11 @@ Since June 2022, I was in the position of material coordinator in Flex Suzhou Co
 I want to find a job that is challenging and I like to be constantly challenged. I believe that the position in your company meets my need.  I also like the equal and friendly environment in your company. I believe I can gain a lot from working in this kind of company environment.  </td><tr>
 
 <tr><td colspan="1">WeChat<br>Contact</td>
-<td colspan="2" align="center"><img src="https://raw.githubusercontent.com/rx-ted/online-resume/main/img/wechat.jpg" width="100"></td>
+<td colspan="1" align="center"><img src="https://raw.githubusercontent.com/rx-ted/online-resume/main/img/wechat.jpg" width="100"></td>
 <td colspan="1"><a target="blank" href="https://github.com/rx-ted">Github<br>Address</a></td>
-<td colspan="2" align="center"><img src="https://raw.githubusercontent.com/rx-ted/online-resume/main/img/github.jpg" width="100"></td></tr>
+<td colspan="1" align="center"><img src="https://raw.githubusercontent.com/rx-ted/online-resume/main/img/github.jpg" width="100"></td>
+<td colspan="1">My Blog</td> 
+<td colspan="1"><a href="https://rx-ted.github.io/blog">https://rx-ted.github.io/blog</a></td> 
+ </tr>
 </table>
 </div>
