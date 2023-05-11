@@ -66,8 +66,7 @@ I want to find a job that is challenging and I like to be constantly challenged.
 <td colspan="1" align="center"><img src="https://raw.githubusercontent.com/rx-ted/online-resume/main/img/wechat.jpg" width="100"></td>
 <td colspan="1"><a target="blank" href="https://github.com/rx-ted">Github<br>Address</a></td>
 <td colspan="1" align="center"><img src="https://raw.githubusercontent.com/rx-ted/online-resume/main/img/github.jpg" width="100"></td>
-<td colspan="1">My Blog</td> 
-<td colspan="1"><a href="https://rx-ted.github.io/blog">https://rx-ted.github.io/blog</a></td> 
+<td colspan="2"><a href="https://rx-ted.github.io/blog">My Blog</a></td> 
  </tr>
 </table>
 </div>
