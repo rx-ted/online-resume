@@ -16,7 +16,7 @@
 <td>Ben Gao</td>
 <td>Gender</td>
 <td>Male</td>
-<td colspan="2" rowspan="3"><img src="https://cdn-icons-png.flaticon.com/512/10624/10624089.png" width="100px"></td>
+<td colspan="2" rowspan="3"><img src="./img/my.png" width="100px"></td>
 </tr>
 <!---row3--->
 <tr> 
