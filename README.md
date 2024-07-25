@@ -16,14 +16,14 @@
 <td>Ben Gao</td>
 <td>Gender</td>
 <td>Male</td>
-<td colspan="2" rowspan="3"><img src="https://raw.githubusercontent.com/rx-ted/online-resume/main/img/my.png" width="100px"></td>
+<td colspan="2" rowspan="3"><img src="https://telegraph-image-659.pages.dev/file/4c2d7ca376b2af8c2ba92.jpg" width="100px"></td>
 </tr>
 <!---row3--->
 <tr> 
 <td>Birthdate</td>
-<td>11/5/1998</td>
+<td>1998.11</td>
 <td>Birthplace</td>
-<td>Anhui</td>
+<td>Anhui(安徽)</td>
 </tr>
 <!---row4--->
 <tr> 
@@ -31,7 +31,7 @@
 <td>gjy.18sui@gmail.com</td>
 <td>
 Cell phone</td>
-<td>17372264057</td>
+<td>17372264057(WeChat)</td>
 </tr>
 <!---row5--->
 <tr> 
@@ -41,7 +41,7 @@ Cell phone</td>
 <!---row6--->
 <tr> 
 <td><b style="font-size:20px">Skills</b></td>
-<td colspan="5">Python, C/C++, CET-4, Arduino/RTOS, HTML/CSS/JS/jQuery, MySQL and so on.</td> 
+<td colspan="5">Python, C/C++, CET-4, Arduino/RTOS, </td> 
 </tr>
 <!---row7--->
 <tr> 
@@ -61,10 +61,11 @@ Since June 2022, I was in the position of material coordinator in Flex Suzhou Co
 <tr>
 <td colspan="6">I am warm-hearted, friendly, honest and modest. I have strong self-study and practical ability, and can quickly accept new things. I am good at communicating with my colleagues and leaders so that I can quickly solve the problems encountered in the project. I have a hard-working spirit and good development habits. <br>
 I want to find a job that is challenging and I like to be constantly challenged. I believe that the position in your company meets my need.  I also like the equal and friendly environment in your company. I believe I can gain a lot from working in this kind of company environment.  </td><tr>
-<!---
-<tr><td colspan="2">WeChat Contact<br><img src="https://raw.githubusercontent.com/rx-ted/online-resume/main/img/wechat.jpg" width="100"></td>
-<td colspan="2"><a target="blank" href="https://github.com/rx-ted">Github Address</a><br><img src="https://raw.githubusercontent.com/rx-ted/online-resume/main/img/github.jpg" width="100"></td>
-<td colspan="2"><a href="https://rx-ted.github.io/blog">My Blog</a></td> 
- </tr> --->
+
+<tr>
+ <td colspan="2">WeChat Contact<br><img src="https://telegraph-image-659.pages.dev/file/cddf30e15e6b5f724a788.jpg" width="100"></td>
+ <td colspan="2"><a target="blank" href="https://dgithub.xyz/rx-ted">Github Address</a><br><img src="https://raw.dgithub.xyz/rx-ted/online-resume/main/img/github.jpg" width="100"></td>
+ <td colspan="2"><a href="https://rx-ted.github.io/blog">My Blog</a></td> 
+</tr> 
 </table>
 </div>
